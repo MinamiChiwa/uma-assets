@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 913378288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98373f96dce84efb09104682623a14ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 818998f6ad50b01be7500ae860b195e5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003011/tex_story_020003011_002.png
+- Assets/BundledAssets/Umamusumelocalify/Fonts/MSYH.TTC
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003011/tex_story_020003011_004.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003011/tex_story_020003011_005.png
+- Assets/BundledAssets/Umamusumelocalify/Fonts/UmaUmaFont.otf
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003071/tex_story_020003071_000.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003011/tex_story_020003011_008.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003101/tex_story_020003101_004.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003134/tex_story_020003134_004.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003071/tex_story_020003071_003.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003041/tex_story_020003041_000.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003071/tex_story_020003071_005.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003134/tex_story_020003134_000.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003071/tex_story_020003071_001.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003011/tex_story_020003011_009.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003071/tex_story_020003071_002.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003041/tex_story_020003041_002.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003011/tex_story_020003011_000.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003011/tex_story_020003011_003.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003101/tex_story_020003101_003.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003134/tex_story_020003134_003.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003041/tex_story_020003041_001.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003011/tex_story_020003011_001.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003101/tex_story_020003101_002.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003101/tex_story_020003101_001.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003134/tex_story_020003134_001.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003101/tex_story_020003101_000.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003101/tex_story_020003101_005.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003011/tex_story_020003011_007.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003134/tex_story_020003134_002.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003041/tex_story_020003041_003.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003011/tex_story_020003011_006.png
+- Assets/_gallopresources/bundle/resources/story/texture/02/0003/020003071/tex_story_020003071_004.png
+Dependencies: []
